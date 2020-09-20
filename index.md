@@ -13,6 +13,5 @@ int main()
 你就会看到上面的代码以代码形式展现了
 
 
-### Jekyll Themes
 **这个主题好像叫 *Jekyll Themes*  
 emmmmmm ~~（瘸子里面选将军了）~~**
