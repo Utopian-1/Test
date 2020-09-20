@@ -14,4 +14,4 @@ int main()
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
-**这个主题好像叫*Jekyll Themes* emmmmmm ~~瘸子里面选将军了~~
+**这个主题好像叫*Jekyll Themes* emmmmmm ~~（瘸子里面选将军了）~~**
